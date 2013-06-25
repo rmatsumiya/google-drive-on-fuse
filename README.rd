@@ -17,6 +17,6 @@
  $ ./google-drive-on-fuse /path/to/your/google/drive/directory/
 6. Get the code and input the console.
 7. If the program ended normally, the folder you selected may be mounted.
-  * NOTE : The program may be down at SEGV at first login (and sometimes you run this program) . Then, try rerun the program.
+  * NOTE : The program may be down at SEGV at first login (and sometimes you run this program) . Then, rerun the program.
     * This problem may be coming from google api's delay.  We will (and must) solve this problem in the future.
 8. Enjoy!
